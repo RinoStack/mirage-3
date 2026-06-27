@@ -1,0 +1,8 @@
+{
+  "name": "mirage",
+  "version": "1.0.0",
+  "description": "Unified Virtual Filesystem for AI Agents",
+  "main": "src/index.ts",
+    "build": "tsc"
+    "typescript": "^5.0.0"
+}
